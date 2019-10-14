@@ -1,4 +1,4 @@
-# dunya-halleri
+# Dunya-Halleri
 
 Python ile Veri Kazıma(Web Scraping) Çalışması: Dünya Halleri Verisinin Kazınıp, Analiz Edilmesi ve Modellenmesi Yazısının kodlarıdır. 
 
